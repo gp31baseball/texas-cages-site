@@ -1,0 +1,9 @@
+﻿TEXAS CAGES – PROJECT BOUNDARY RULES (PBR)
+
+This is a small, static sponsor rebuild.
+No CMS.
+No booking.
+No backend.
+No scope creep.
+
+Any new feature = Phase 2 discussion.
